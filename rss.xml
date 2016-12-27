@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>RSS Feed</title>
+    <link>http://localhost:8080</link>
+    <description>RSS Feed</description>
+    <lastBuildDate>Tue, 27 Dec 2016 12:33:20 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Massimo Bernardi]]></title>
+        <link><![CDATA[http://localhost:8080/de/person/Massimo_Bernardi/]]></link>
+        <description><![CDATA[Massimo Bernardi]]></description>
+        <guid><![CDATA[http://localhost:8080/de/person/Massimo_Bernardi/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Massimo Bernardi]]></title>
+        <link><![CDATA[http://localhost:8080/en/person/Massimo_Bernardi/]]></link>
+        <description><![CDATA[Massimo Bernardi]]></description>
+        <guid><![CDATA[http://localhost:8080/en/person/Massimo_Bernardi/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Gianni De Luigi]]></title>
+        <link><![CDATA[http://localhost:8080/de/person/Gianni_De_Luigi/]]></link>
+        <description><![CDATA[Gianni De Luigi]]></description>
+        <guid><![CDATA[http://localhost:8080/de/person/Gianni_De_Luigi/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Gianni De Luigi]]></title>
+        <link><![CDATA[http://localhost:8080/en/person/Gianni_De_Luigi/]]></link>
+        <description><![CDATA[Gianni De Luigi]]></description>
+        <guid><![CDATA[http://localhost:8080/en/person/Gianni_De_Luigi/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Miguel Lluch]]></title>
+        <link><![CDATA[http://localhost:8080/de/person/Miguel_Lluch/]]></link>
+        <description><![CDATA[Miguel Lluch]]></description>
+        <guid><![CDATA[http://localhost:8080/de/person/Miguel_Lluch/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Miguel Lluch]]></title>
+        <link><![CDATA[http://localhost:8080/en/person/Miguel_Lluch/]]></link>
+        <description><![CDATA[Miguel Lluch]]></description>
+        <guid><![CDATA[http://localhost:8080/en/person/Miguel_Lluch/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Romolo Valli]]></title>
+        <link><![CDATA[http://localhost:8080/de/person/Romolo_Valli/]]></link>
+        <description><![CDATA[Romolo Valli (* 7. Februar 1925 in Reggio nell’Emilia; † 1. Februar 1980 in Rom) war ein italienischer Schauspieler.]]></description>
+        <guid><![CDATA[http://localhost:8080/de/person/Romolo_Valli/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Romolo Valli]]></title>
+        <link><![CDATA[http://localhost:8080/en/person/Romolo_Valli/]]></link>
+        <description><![CDATA[Romolo Valli (Reggio nell'Emilia, 7 februari 1925 – Rome, 1 februari 1980) was een Italiaans acteur.Romolo Valli werd geboren in Reggio nell'Emilia. Voordat hij begon te acteren, studeerde hij eerst rechten. Hij was een van de bekendste Italiaanse acteurs vanaf de jaren '50 tot aan zijn dood. Hij werkte zowel als theateracteur als op het witte doek. Valli werkte samen met regisseurs als Vittorio De Sica, Sergio Leone, Roman Polański en Luchino Visconti.Valli stierf in 1980 in een auto-ongeluk.]]></description>
+        <guid><![CDATA[http://localhost:8080/en/person/Romolo_Valli/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Antonio Margheriti]]></title>
+        <link><![CDATA[http://localhost:8080/de/person/Antonio_Margheriti/]]></link>
+        <description><![CDATA[Antonio Margheriti (* 19. September 1930 in Rom; † 4. November 2002 in Monterosi, Viterbo; Pseudonyme: Anthony Daisies und Anthony M. Dawson) war ein italienischer Filmregisseur, der vor allem durch seine Actionfilme, oftmals Kopien erfolgreicher Hollywood-Filme, bekannt wurde.]]></description>
+        <guid><![CDATA[http://localhost:8080/de/person/Antonio_Margheriti/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Antonio Margheriti]]></title>
+        <link><![CDATA[http://localhost:8080/en/person/Antonio_Margheriti/]]></link>
+        <description><![CDATA[Antonio Margheriti (19 September 1930 – 4 November 2002), also known under the pseudonym Anthony M. Dawson, was a prolific Italian filmmaker. He was born in Rome and died in 2002 from a heart attack in Monterosi, Viterbo, near Rome at the age of 72.]]></description>
+        <guid><![CDATA[http://localhost:8080/en/person/Antonio_Margheriti/]]></guid>
+        <pubDate>Tue, 04 Aug 2015 22:01:25 </pubDate>
+    </item>
+    
+</channel></rss>
