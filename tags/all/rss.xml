@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel><title>Tags » All</title>
-    <link>http://localhost:8080</link>
+    <link>https://www.spaghetti-western.de</link>
     <description>Tags » All</description>
-    <lastBuildDate>Tue, 27 Dec 2016 12:33:20 </lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 23:01:00 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Sample Post 2]]></title>
-        <link><![CDATA[http://localhost:8080/post/sample2/]]></link>
+        <link><![CDATA[https://www.spaghetti-western.de/post/sample2/]]></link>
         <description><![CDATA[]]></description>
-        <guid><![CDATA[http://localhost:8080/post/sample2/]]></guid>
+        <guid><![CDATA[https://www.spaghetti-western.de/post/sample2/]]></guid>
         <pubDate>Mon, 18 May 2015 19:07:11 </pubDate>
     </item>
     
