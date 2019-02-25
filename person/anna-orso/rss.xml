@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Anna Orso</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Anna Orso</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Day of Anger]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/day-of-anger/]]></link>
+        <description><![CDATA[Day of Anger is a 1967 Spaghetti Western film directed and co-written by Tonino Valerii and starring Lee Van Cleef and Giuliano Gemma, and features a musical score by Riz Ortolani. The film credits the novel Der Tod ritt dienstags by Ron Barker as its basis, although Valerii and screenwriter Ernesto Gastaldi have attested that this credit was primarily included to appease the West German co-producers, and that although some scenes are partially borrowed from it, the film is not an adaptation of Becker's novel.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/day-of-anger/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Der Tod ritt dienstags]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/der-tod-ritt-dienstags/]]></link>
+        <description><![CDATA[Der Tod ritt dienstags ist ein Italowestern des italienischen Regisseurs Tonino Valerii aus dem Jahr 1967 nach einem Roman von Ron Barker.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/der-tod-ritt-dienstags/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

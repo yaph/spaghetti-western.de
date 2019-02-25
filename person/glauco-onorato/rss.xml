@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Glauco Onorato</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Glauco Onorato</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[W Django!]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/w-django!/]]></link>
+        <description><![CDATA[W Django! is a 1971 Italian Spaghetti Western film directed by Edoardo Mulargia and starring Anthony Steffen.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/w-django!/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[John the Bastard]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/john-the-bastard/]]></link>
+        <description><![CDATA[John the Bastard is a 1967 Italian Spaghetti Western film written and directed by Armando Crispino and starring John Richardson.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/john-the-bastard/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Boot Hill]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/boot-hill/]]></link>
+        <description><![CDATA[Boot Hill is a 1969 Italian Spaghetti Western film starring Terence Hill and Bud Spencer. This film is the last one in a trilogy that started with God Forgives... I Don't! (1967), followed by Ace High (1968).]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/boot-hill/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ein Fressen für Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/ein-fressen-für-django/]]></link>
+        <description><![CDATA[Ein Fressen für Django ist ein Italowestern von Edoardo Mulargia, der im deutschsprachigen Raum um 12 Minuten gekürzt am 15. September 1972 erstaufgeführt wurde.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/ein-fressen-für-django/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[John il bastardo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/john-il-bastardo/]]></link>
+        <description><![CDATA[John il bastardo ist ein Italowestern aus dem Jahr 1967, der unter der Debüt-Regie von Armando Crispino mit John Richardson in der Hauptrolle entstand. Eine Aufführung im deutschsprachigen Raum fand nicht statt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/john-il-bastardo/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Hügel der blutigen Stiefel]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/hügel-der-blutigen-stiefel/]]></link>
+        <description><![CDATA[Hügel der blutigen Stiefel, auch unter Zwei hau’n auf den Putz, oder Hügel der Stiefel bekannt, ist ein Film aus dem Jahr 1969. Der Film ist die Fortsetzung der ebenfalls von Colizzi inszenierten Filme Gott vergibt … wir beide nie (1967) und Vier für ein Ave Maria (1968).]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/hügel-der-blutigen-stiefel/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

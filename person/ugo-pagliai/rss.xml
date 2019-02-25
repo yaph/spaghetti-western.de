@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Ugo Pagliai</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Ugo Pagliai</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Viva Cangaceiro]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/viva-cangaceiro/]]></link>
+        <description><![CDATA[Viva Cangaceiro is a Brazilian themed spaghetti western movie co-produced by Spain and Italy and directed by Giovanni Fago as his third and last spaghetti western.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/viva-cangaceiro/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Viva Cangaceiro]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/viva-cangaceiro/]]></link>
+        <description><![CDATA[Film von Giovanni Fago (1970)]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/viva-cangaceiro/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

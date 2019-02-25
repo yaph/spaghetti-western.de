@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>De » Person » Gabriele Tinti</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>De » Person » Gabriele Tinti</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:33 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Der Sohn des Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/der-sohn-des-django/]]></link>
+        <description><![CDATA[Der Sohn des Django ist ein Italo-Western von Osvaldo Civirani aus dem Jahr 1967.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/der-sohn-des-django/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

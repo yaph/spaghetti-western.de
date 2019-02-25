@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Alberto Lupo</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Alberto Lupo</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:33 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Django Shoots First]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/django-shoots-first/]]></link>
+        <description><![CDATA[
+
+Django Shoots First is an Italian Spaghetti Western film directed by Alberto De Martino.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/django-shoots-first/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Django – Nur der Colt war sein Freund]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/django-–-nur-der-colt-war-sein-freund/]]></link>
+        <description><![CDATA[Django – Nur der Colt war sein Freund ist ein Italowestern aus dem Jahr 1966. Alberto De Martino inszenierte den am 14. Juni 1968 in Deutschland erstaufgeführten Film.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/django-–-nur-der-colt-war-sein-freund/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

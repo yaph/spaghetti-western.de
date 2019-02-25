@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>En » Person » Gabriele Tinti</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>En » Person » Gabriele Tinti</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Son of Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/son-of-django/]]></link>
+        <description><![CDATA[Son of Django is a 1967 Italian Spaghetti Western film written and directed by Osvaldo Civirani.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/son-of-django/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

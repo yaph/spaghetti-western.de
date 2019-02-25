@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>En » Person » María Martín</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>En » Person » María Martín</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Dead Men Don't Count]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/dead-men-don't-count/]]></link>
+        <description><![CDATA[Dead Men Don't Count is a 1968 Spanish-Italian Spaghetti Western film written and directed by Rafael Romero Marchent.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/dead-men-don't-count/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bandidos]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/bandidos/]]></link>
+        <description><![CDATA[Bandidos is a 1967 Italian spaghetti western film. It marked the directorial debut in a feature film of the then cinematographer Massimo Dallamano.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/bandidos/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Reverend's Colt]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/reverend's-colt/]]></link>
+        <description><![CDATA[Reverend's Colt is a 1970 Spanish-Italian Spaghetti Western directed by León Klimovsky.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/reverend's-colt/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

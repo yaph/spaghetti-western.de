@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>En » Person » Alberto De Martino</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>En » Person » Alberto De Martino</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Django Shoots First]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/django-shoots-first/]]></link>
+        <description><![CDATA[
+
+Django Shoots First is an Italian Spaghetti Western film directed by Alberto De Martino.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/django-shoots-first/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Centomila dollari per Ringo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/centomila-dollari-per-ringo/]]></link>
+        <description><![CDATA[100.000 dollari per Ringo is a 1965 spaghetti western film directed by Alberto De Martino.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/centomila-dollari-per-ringo/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Heroes of Fort Worth]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/heroes-of-fort-worth/]]></link>
+        <description><![CDATA[Heroes of Fort Worth or Gli eroi di Fort Worth is a 1965 Italian Spaghetti Western film directed by Alberto De Martino.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/heroes-of-fort-worth/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

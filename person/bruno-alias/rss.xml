@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Bruno Alias</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Bruno Alias</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Mark of Zorro]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/mark-of-zorro/]]></link>
+        <description><![CDATA[Mark of Zorro is a 1975 Italian adventure comedy film directed by Franco Lo Cascio.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/mark-of-zorro/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ah sì? E io lo dico a Zzzzorro!]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/ah-sì?-e-io-lo-dico-a-zzzzorro!/]]></link>
+        <description><![CDATA[Ah sì? E io lo dico a Zzzzorro! ist eine 1975 entstandene Filmparodie auf Zorrofilme und Italowestern, die im deutschen Sprachraum nicht gezeigt wurde.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/ah-sì?-e-io-lo-dico-a-zzzzorro!/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>En » Person » Adolfo Celi</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>En » Person » Adolfo Celi</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Yankee]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/yankee/]]></link>
+        <description><![CDATA[Yankee is a 1966 Italian-Spanish Western film directed by Tinto Brass and starring Philippe Leroy.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/yankee/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Death Sentence]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/death-sentence/]]></link>
+        <description><![CDATA[Death Sentence is a 1968 spaghetti western directed by Mario Lanfranchi and starring Richard Conte.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/death-sentence/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+</channel></rss>

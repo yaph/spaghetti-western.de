@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Walter Chiari</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Walter Chiari</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:33 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Heroes of the West]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/heroes-of-the-west/]]></link>
+        <description><![CDATA[Heroes of the West is a 1963 Italian Spaghetti Western film directed by Steno.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/heroes-of-the-west/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Gli eroi del West]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/gli-eroi-del-west/]]></link>
+        <description><![CDATA[Gli eroi del West ist eine im deutschen Sprachraum nicht aufgeführte Western-Parodie unter der Regie von Steno, die 1963 entstand.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/gli-eroi-del-west/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

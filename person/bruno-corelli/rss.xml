@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Bruno Corelli</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Bruno Corelli</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Io sono il capataz]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/io-sono-il-capataz/]]></link>
+        <description><![CDATA[Io sono il capataz is a 1950 Italian western-comedy film directed by Giorgio Simonelli.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/io-sono-il-capataz/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Io sono il Capataz]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/io-sono-il-capataz/]]></link>
+        <description><![CDATA[Io sono il Capataz ist ein italienischer Abenteuerfilm aus dem Jahr 1950, der mit Renato Rascel in der Hauptrolle eine komödiantische Geschichte um den mexikanischen Revolutionär Pancho Villa erzählt. Der von Giorgio Simonelli inszenierte Film wurde im deutschsprachigen Raum nicht gezeigt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/io-sono-il-capataz/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

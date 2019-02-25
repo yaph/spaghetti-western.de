@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>En » Person » Luca Sportelli</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>En » Person » Luca Sportelli</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:32 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Longest Hunt]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/the-longest-hunt/]]></link>
+        <description><![CDATA[Spara, Gringo, spara is a 1968 Italian spaghetti western directed by Bruno Corbucci.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/the-longest-hunt/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Ciccio Forgives]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/ciccio-forgives/]]></link>
+        <description><![CDATA[Ciccio perdona... Io no!, internationally known as Ciccio Forgives, I Don't, is a 1968 Italian comedy film directed by Marcello Ciorciolini. It is a spaghetti western parody of God Forgives... I Don't!.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/ciccio-forgives/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

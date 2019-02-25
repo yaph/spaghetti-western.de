@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>De » Person » Claudie Lange</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>De » Person » Claudie Lange</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:33 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Django – der Bastard]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/django-–-der-bastard/]]></link>
+        <description><![CDATA[Django – der Bastard ist ein von Giovanni Fago 1967 gedrehter Italowestern. Die deutschsprachige Erstaufführung erfolgte am 19. April 1968.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/django-–-der-bastard/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Django spricht kein Vaterunser]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/django-spricht-kein-vaterunser/]]></link>
+        <description><![CDATA[Django spricht kein Vaterunser ist ein Italowestern aus dem Jahr 1968, der Blütezeit des Genres. Der von Paolo Bianchini inszenierte Film wurde am 27. Februar 1970 im deutschen Sprachraum erstaufgeführt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/django-spricht-kein-vaterunser/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>

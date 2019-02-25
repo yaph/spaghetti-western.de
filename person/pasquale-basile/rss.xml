@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>Person » Pasquale Basile</title>
+    <link>https://www.spaghetti-western.de</link>
+    <description>Person » Pasquale Basile</description>
+    <lastBuildDate>Tue, 26 Feb 2019 00:51:33 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Yankee]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/yankee/]]></link>
+        <description><![CDATA[Yankee is a 1966 Italian-Spanish Western film directed by Tinto Brass and starring Philippe Leroy.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/yankee/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:30 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Yankee]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/yankee/]]></link>
+        <description><![CDATA[Yankee ist ein Italowestern, der 1966 von Tinto Brass inszeniert wurde. Die deutschsprachige Erstaufführung erfolgte am 12. Oktober 1967.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/yankee/]]></guid>
+        <pubDate>Tue, 26 Feb 2019 00:51:29 </pubDate>
+    </item>
+    
+</channel></rss>
