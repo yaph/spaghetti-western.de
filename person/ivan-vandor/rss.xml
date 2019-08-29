@@ -3,16 +3,16 @@
 <channel><title>Person » Ivan Vandor</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Ivan Vandor</description>
-    <lastBuildDate>Thu, 29 Aug 2019 01:24:02 </lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 02:11:51 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
     <item>
         <title><![CDATA[Django Kill]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/django-kill/]]></link>
-        <description><![CDATA[Django Kill... If You Live, Shoot! is a film directed by Giulio Questi.]]></description>
+        <description><![CDATA[Django Kill... If You Live, Shoot! is a 1967 film directed by Giulio Questi.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/django-kill/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 01:23:59 </pubDate>
+        <pubDate>Thu, 29 Aug 2019 02:11:47 </pubDate>
     </item>
     
 </channel></rss>
