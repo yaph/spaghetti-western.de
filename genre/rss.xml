@@ -3,24 +3,24 @@
 <channel><title>Genre</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Genre</description>
-    <lastBuildDate>Thu, 29 Aug 2019 02:11:50 </lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 02:34:47 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Two Mafiamen in the Far West]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/two-mafiamen-in-the-far-west/]]></link>
-        <description><![CDATA[Two Mafiamen in the Far West is a 1964 Italian comedy western film directed by Giorgio Simonelli. Its stars Franco Franchi, Ciccio Ingrassia and Fernando Sancho.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/two-mafiamen-in-the-far-west/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Compañeros]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/compañeros/]]></link>
         <description><![CDATA[Compañeros is a 1970 Zapata Western film directed by Sergio Corbucci. The film stars Franco Nero, Tomas Milian, Jack Palance and Fernando Rey. The soundtrack for the film was written by Ennio Morricone, and the orchestra was conducted by Bruno Nicolai.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/compañeros/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Two Mafiamen in the Far West]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/two-mafiamen-in-the-far-west/]]></link>
+        <description><![CDATA[Two Mafiamen in the Far West is a 1964 Italian comedy western film directed by Giorgio Simonelli. Its stars Franco Franchi, Ciccio Ingrassia and Fernando Sancho.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/two-mafiamen-in-the-far-west/]]></guid>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -28,15 +28,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/seven-guns-for-the-macgregors/]]></link>
         <description><![CDATA[Seven Guns for the MacGregors is a Technicolor 1966 Italian spaghetti western. It is the directorial debut film of Franco Giraldi, who was Sergio Leone's assistant in A Fistful of Dollars. The film gained a great commercial success and generated an immediate sequel, Up the MacGregors! (1967), again directed by Giraldi, and a later sequel, More Dollars for the MacGregors (1970).]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/seven-guns-for-the-macgregors/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Faccia a faccia]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/faccia-a-faccia/]]></link>
-        <description><![CDATA[Face to Face is a 1967 Italian Spaghetti Western film co-written and directed by Sergio Sollima. The film stars Gian Maria Volontè, Tomas Milian and William Berger, and features a musical score by Ennio Morricone. It is the second of Sollima's three Westerns, following The Big Gundown and predating Run, Man, Run, a sequel to the former. Milian stars in a lead role in all three films.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/faccia-a-faccia/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -44,7 +36,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/a-genius,-two-partners-and-a-dupe/]]></link>
         <description><![CDATA[A Genius, Two Partners and a Dupe (Italian: Un genio, due compari, un pollo is a 1975 spaghetti western comedy film directed by Damiano Damiani and Sergio Leone, who directed the opening scene.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/a-genius,-two-partners-and-a-dupe/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Faccia a faccia]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/faccia-a-faccia/]]></link>
+        <description><![CDATA[Face to Face is a 1967 Italian Spaghetti Western film co-written and directed by Sergio Sollima. The film stars Gian Maria Volontè, Tomas Milian and William Berger, and features a musical score by Ennio Morricone. It is the second of Sollima's three Westerns, following The Big Gundown and predating Run, Man, Run, a sequel to the former. Milian stars in a lead role in all three films.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/faccia-a-faccia/]]></guid>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -52,7 +52,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/duck,-you-sucker!/]]></link>
         <description><![CDATA[Duck, You Sucker!, also known as A Fistful of Dynamite and Once Upon a Time in… the Revolution, is a 1971 Italian epic Zapata Western film directed and co-written by Sergio Leone and starring Rod Steiger, James Coburn and Romolo Valli.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/duck,-you-sucker!/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -60,7 +60,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/my-name-is-nobody/]]></link>
         <description><![CDATA[My Name Is Nobody is a 1973 comedy spaghetti western starring Terence Hill and Henry Fonda. The film was directed by Tonino Valerii.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/my-name-is-nobody/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -68,7 +68,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/the-stranger-and-the-gunfighter/]]></link>
         <description><![CDATA[1974 film by Antonio Margheriti]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/the-stranger-and-the-gunfighter/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -76,7 +76,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/bad-man's-river/]]></link>
         <description><![CDATA[Bad Man's River is a 1971 European comedy Spaghetti western directed by Eugenio Martín and starring Lee Van Cleef, James Mason, Gina Lollobrigida and Simón Andreu. Soundtrack was composed by Tony Duhig, Peter Jonfield, Glyn Havard and Waldo de los Ríos.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/bad-man's-river/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:48 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
     <item>
@@ -84,7 +84,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/mark-of-zorro/]]></link>
         <description><![CDATA[Mark of Zorro is a 1975 Italian adventure comedy film directed by Franco Lo Cascio.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/mark-of-zorro/]]></guid>
-        <pubDate>Thu, 29 Aug 2019 02:11:47 </pubDate>
+        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
     </item>
     
 </channel></rss>
