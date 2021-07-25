@@ -3,24 +3,24 @@
 <channel><title>En » Person » Harry Baird</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Harry Baird</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Four of the Apocalypse]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/four-of-the-apocalypse/]]></link>
-        <description><![CDATA[Four of the Apocalypse is a 1975 Italian spaghetti western film directed by Lucio Fulci and starring Fabio Testi, Tomas Milian and Michael J. Pollard.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/four-of-the-apocalypse/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Those Dirty Dogs]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/those-dirty-dogs/]]></link>
         <description><![CDATA[Those Dirty Dogs is a 1973 Italian-Spanish Spaghetti Western film written and directed by Giuseppe Rosati and starring Gianni Garko and Stephen Boyd. The film was made in the later part of the spaghetti western boom. As such it features such latter-day genre elements as self-parody, guffaw humour, near-slapstick fight scenes, machine guns hidden in everyday household items, and bombastic villains.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/those-dirty-dogs/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Four of the Apocalypse]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/four-of-the-apocalypse/]]></link>
+        <description><![CDATA[Four of the Apocalypse is a 1975 Italian spaghetti western film directed by Lucio Fulci and starring Fabio Testi, Tomas Milian and Michael J. Pollard.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/four-of-the-apocalypse/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

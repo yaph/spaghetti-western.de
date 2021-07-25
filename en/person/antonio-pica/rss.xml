@@ -3,7 +3,7 @@
 <channel><title>En » Person » Antonio Pica</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Antonio Pica</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,15 +12,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/mark-of-zorro/]]></link>
         <description><![CDATA[Mark of Zorro is a 1975 Italian adventure comedy film directed by Franco Lo Cascio.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/mark-of-zorro/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Cipolla Colt]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/cipolla-colt/]]></link>
-        <description><![CDATA[Cry, Onion! is a 1975 Spaghetti Western comedy film directed by Enzo G. Castellari. It is openly comedic and parodic.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/cipolla-colt/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -29,7 +21,7 @@
         <description><![CDATA[A Bullet for Sandoval is a 1969 spaghetti western film. It is a co-production between Italy and Spain. The film was generally well received by critics.
 For years, it was thought that famed Italian horror film director Lucio Fulci directed this western, but that was later disputed by the film's lead star George Hilton.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/a-bullet-for-sandoval/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -37,7 +29,15 @@ For years, it was thought that famed Italian horror film director Lucio Fulci di
         <link><![CDATA[https://www.spaghetti-western.de/en/django-kill/]]></link>
         <description><![CDATA[Django Kill... If You Live, Shoot! is a 1967 film directed by Giulio Questi.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/django-kill/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Cipolla Colt]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/cipolla-colt/]]></link>
+        <description><![CDATA[Cry, Onion! is a 1975 Spaghetti Western comedy film directed by Enzo G. Castellari. It is openly comedic and parodic.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/cipolla-colt/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,24 @@
 <channel><title>De » Person » Stefania Careddu</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » Stefania Careddu</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Leg ihn um, Django]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></link>
-        <description><![CDATA[Leg ihn um, Django ist ein Italowestern aus dem Jahr 1967; in Deutschland gelangte er am 28. März 1969 in die Kinos.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Django – Die Totengräber warten schon]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/de/django-die-totengräber-warten-schon/]]></link>
         <description><![CDATA[Django – Die Totengräber warten schon ist ein von Enzo G. Castellari 1967 gedrehter Italo-Western. Die Geschichte folgt weitgehend dem Hamlet-Stoff; der internationale Titel lautet auch Johnny Hamlet. Die deutschsprachige Erstaufführung erfolgte am 26. November 1968.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/django-die-totengräber-warten-schon/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Leg ihn um, Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></link>
+        <description><![CDATA[Leg ihn um, Django ist ein Italowestern aus dem Jahr 1967; in Deutschland gelangte er am 28. März 1969 in die Kinos.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

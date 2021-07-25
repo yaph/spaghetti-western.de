@@ -3,24 +3,24 @@
 <channel><title>En » Person » Giorgio Stegani</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Giorgio Stegani</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Adiós gringo]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/adiós-gringo/]]></link>
-        <description><![CDATA[Adiós gringo is a 1965 Italian Spaghetti Western directed by Giorgio Stegani. Its stars Giuliano Gemma and was co produced between Italy, Spain and France. On release in the United States, nearly all of the cast members and production team had their names changed for the English audience. A major success, it was the 4th highest grossing picture of the year in Italy.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/adiós-gringo/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Beyond the Law]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/beyond-the-law/]]></link>
         <description><![CDATA[Beyond the Law is a 1968 Spaghetti Western film directed by Giorgio Stegani and starring Lee Van Cleef as Cudlip, Antonio Sabàto Sr. as Ben Novack and Gordon Mitchell as Burton. It was first distributed in the United States in 1971.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/beyond-the-law/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Adiós gringo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/adiós-gringo/]]></link>
+        <description><![CDATA[Adiós gringo is a 1965 Italian Spaghetti Western directed by Giorgio Stegani. Its stars Giuliano Gemma and was co produced between Italy, Spain and France. On release in the United States, nearly all of the cast members and production team had their names changed for the English audience. A major success, it was the 4th highest grossing picture of the year in Italy.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/adiós-gringo/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

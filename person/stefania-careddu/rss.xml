@@ -3,32 +3,24 @@
 <channel><title>Person » Stefania Careddu</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Stefania Careddu</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Any Gun Can Play]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/any-gun-can-play/]]></link>
-        <description><![CDATA[Any Gun Can Play is a 1967 spaghetti western starring Gilbert Roland, Edd Byrnes and George Hilton. The film is directed by Enzo G. Castellari. The film is about a group of cowboys searching for gold, double-leading to double crosses as they continually change allegiances and get the upper hand only to be thwarted by fellow outlaws, mysterious insurance investigators and each other.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/any-gun-can-play/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Johnny Hamlet]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/johnny-hamlet/]]></link>
         <description><![CDATA[Johnny Hamlet, also known as The Wild and the Dirty, is a 1968 Italian film directed by Enzo G. Castellari. The film is a Spaghetti Western version of William Shakespeare's tragedy Hamlet.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/johnny-hamlet/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Leg ihn um, Django]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></link>
-        <description><![CDATA[Leg ihn um, Django ist ein Italowestern aus dem Jahr 1967; in Deutschland gelangte er am 28. März 1969 in die Kinos.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <title><![CDATA[Any Gun Can Play]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/any-gun-can-play/]]></link>
+        <description><![CDATA[Any Gun Can Play is a 1967 spaghetti western starring Gilbert Roland, Edd Byrnes and George Hilton. The film is directed by Enzo G. Castellari. The film is about a group of cowboys searching for gold, double-leading to double crosses as they continually change allegiances and get the upper hand only to be thwarted by fellow outlaws, mysterious insurance investigators and each other.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/any-gun-can-play/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/django-die-totengräber-warten-schon/]]></link>
         <description><![CDATA[Django – Die Totengräber warten schon ist ein von Enzo G. Castellari 1967 gedrehter Italo-Western. Die Geschichte folgt weitgehend dem Hamlet-Stoff; der internationale Titel lautet auch Johnny Hamlet. Die deutschsprachige Erstaufführung erfolgte am 26. November 1968.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/django-die-totengräber-warten-schon/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Leg ihn um, Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></link>
+        <description><![CDATA[Leg ihn um, Django ist ein Italowestern aus dem Jahr 1967; in Deutschland gelangte er am 28. März 1969 in die Kinos.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/leg-ihn-um,-django/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

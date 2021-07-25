@@ -3,32 +3,24 @@
 <channel><title>Person » Mike Marshall</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Mike Marshall</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Death Rides Along]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/death-rides-along/]]></link>
-        <description><![CDATA[Death Rides Along is a 1967 Italian Spaghetti Western film directed by Giuseppe Vari.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/death-rides-along/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[I'll Sell My Skin Dearly]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/i'll-sell-my-skin-dearly/]]></link>
         <description><![CDATA[I'll Sell My Skin Dearly is a 1968 Italian Spaghetti Western film directed by Ettore Maria Fizzarotti.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/i'll-sell-my-skin-dearly/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Tödlicher Ritt nach Sacramento]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/tödlicher-ritt-nach-sacramento/]]></link>
-        <description><![CDATA[Tödlicher Ritt nach Sacramento ist ein 1967 entstandener Italowestern von Giuseppe Vari. Der Film war im deutschsprachigen Raum auch unter dem Kurztitel Tödlicher Ritt und nur in einer erheblich geschnittenen Version zu sehen; im Kino lief er erst Jahre nach seinem Entstehen, am 25. April 1975, an.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/tödlicher-ritt-nach-sacramento/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <title><![CDATA[Death Rides Along]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/death-rides-along/]]></link>
+        <description><![CDATA[Death Rides Along is a 1967 Italian Spaghetti Western film directed by Giuseppe Vari.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/death-rides-along/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/zum-abschied-noch-ein-totenhemd/]]></link>
         <description><![CDATA[Zum Abschied noch ein Totenhemd ist ein Italowestern aus dem Jahr 1968, bei dem Ettore Maria Fizzarotti Regie führte. Im deutschen Sprachraum lief der Film ab dem 25. September 1970 in erheblich gekürzter Version.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/zum-abschied-noch-ein-totenhemd/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Tödlicher Ritt nach Sacramento]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/tödlicher-ritt-nach-sacramento/]]></link>
+        <description><![CDATA[Tödlicher Ritt nach Sacramento ist ein 1967 entstandener Italowestern von Giuseppe Vari. Der Film war im deutschsprachigen Raum auch unter dem Kurztitel Tödlicher Ritt und nur in einer erheblich geschnittenen Version zu sehen; im Kino lief er erst Jahre nach seinem Entstehen, am 25. April 1975, an.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/tödlicher-ritt-nach-sacramento/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

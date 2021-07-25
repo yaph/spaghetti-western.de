@@ -3,7 +3,7 @@
 <channel><title>En » Person » Don Taylor</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Don Taylor</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,15 +12,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/savage-guns-(1961-film)/]]></link>
         <description><![CDATA[The Savage Guns is a 1961 Eurowestern film, an international co-production by British and Spanish producers. Based on a specially commissioned screenplay, The San Siado Killings, written by Peter R. Newman and directed by Michael Carreras, the film is credited as the first traditional Spaghetti Western.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/savage-guns-(1961-film)/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Man Hunt]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/man-hunt/]]></link>
-        <description><![CDATA[Man Hunt is a 1985 Western drama film directed by Fabrizio De Angelis and starring Ethan Wayne, Henry Silva, Bo Svenson, and Ernest Borgnine.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/man-hunt/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,7 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/the-five-man-army/]]></link>
         <description><![CDATA[The Five Man Army is a 1969 Italian Zapata Western film taking place during the Mexican Revolution.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/the-five-man-army/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Man Hunt]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/man-hunt/]]></link>
+        <description><![CDATA[Man Hunt is a 1985 Western drama film directed by Fabrizio De Angelis and starring Ethan Wayne, Henry Silva, Bo Svenson, and Ernest Borgnine.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/man-hunt/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,24 @@
 <channel><title>En » Person » Osvaldo Civirani</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Osvaldo Civirani</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Trusting Is Good... Shooting Is Better]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/trusting-is-good-shooting-is-better/]]></link>
-        <description><![CDATA[Trusting Is Good... Shooting Is Better is a 1968 Italian Spaghetti Western film written and directed by Osvaldo Civirani.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/trusting-is-good-shooting-is-better/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Son of Django]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/son-of-django/]]></link>
         <description><![CDATA[Son of Django is a 1967 Italian Spaghetti Western film written and directed by Osvaldo Civirani.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/son-of-django/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Trusting Is Good... Shooting Is Better]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/trusting-is-good-shooting-is-better/]]></link>
+        <description><![CDATA[Trusting Is Good... Shooting Is Better is a 1968 Italian Spaghetti Western film written and directed by Osvaldo Civirani.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/trusting-is-good-shooting-is-better/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

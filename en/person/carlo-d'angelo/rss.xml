@@ -3,9 +3,17 @@
 <channel><title>En » Person » Carlo D'Angelo</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Carlo D'Angelo</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[The Great Silence]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/the-great-silence/]]></link>
+        <description><![CDATA[The Great Silence is a 1968 revisionist Spaghetti Western film directed and co-written by Sergio Corbucci. An Italian-French co-production, the film stars Jean-Louis Trintignant, Klaus Kinski, Vonetta McGee and Frank Wolff, with Luigi Pistilli, Mario Brega, Marisa Merlini and Carlo D'Angelo in supporting roles.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/the-great-silence/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[One Thousand Dollars on the Black]]></title>
@@ -14,15 +22,7 @@
 
 Blood at Sundown is a Spaghetti Western film directed by Alberto Cardone. The picture marks the first appearance of the character Sartana, played by Gianni Garko. It is not, however considered an "official" Sartana film.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/one-thousand-dollars-on-the-black/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[The Great Silence]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/the-great-silence/]]></link>
-        <description><![CDATA[The Great Silence is a 1968 revisionist Spaghetti Western film directed and co-written by Sergio Corbucci. An Italian-French co-production, the film stars Jean-Louis Trintignant, Klaus Kinski, Vonetta McGee and Frank Wolff, with Luigi Pistilli, Mario Brega, Marisa Merlini and Carlo D'Angelo in supporting roles.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/the-great-silence/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

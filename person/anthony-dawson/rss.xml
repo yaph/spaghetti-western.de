@@ -3,24 +3,16 @@
 <channel><title>Person » Anthony Dawson</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Anthony Dawson</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Death Rides a Horse]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/death-rides-a-horse/]]></link>
-        <description><![CDATA[Death Rides a Horse is a 1967 Italian Spaghetti Western directed by Giulio Petroni, written by Luciano Vincenzoni and starring Lee Van Cleef and John Phillip Law.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/death-rides-a-horse/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Deadlock]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/deadlock/]]></link>
         <description><![CDATA[Deadlock is a 1970 West German spaghetti western directed by Roland Klick. It is perhaps best known today for the soundtrack supplied by Can. It is found on the 1970 Can album Soundtracks.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/deadlock/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,15 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/a-sky-full-of-stars-for-a-roof/]]></link>
         <description><![CDATA[A Sky Full of Stars for a Roof is a 1968 Italian Spaghetti Western comedy film.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/a-sky-full-of-stars-for-a-roof/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Von Mann zu Mann]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/von-mann-zu-mann/]]></link>
-        <description><![CDATA[Von Mann zu Mann ist ein Italowestern von Giulio Petroni aus dem Jahr 1967. Die Filmmusik schrieb Ennio Morricone; ein Alternativtitel ist Die Rechnung wird mit Blei bezahlt.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/von-mann-zu-mann/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <title><![CDATA[Death Rides a Horse]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/death-rides-a-horse/]]></link>
+        <description><![CDATA[Death Rides a Horse is a 1967 Italian Spaghetti Western directed by Giulio Petroni, written by Luciano Vincenzoni and starring Lee Van Cleef and John Phillip Law.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/death-rides-a-horse/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -44,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/deadlock/]]></link>
         <description><![CDATA[Deadlock ist ein deutscher Spätwestern aus dem Jahr 1970. Regie führte Roland Klick, in den Hauptrollen sind u. a. Mario Adorf, Anthony Dawson und Marquard Bohm zu sehen. Der eher minimalistisch eingesetzte Soundtrack stammt von der deutschen Gruppe Can.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/deadlock/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -52,7 +44,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/amigos/]]></link>
         <description><![CDATA[Amigos ist ein komödiantischer Italowestern aus dem Jahr 1968. Der von Giulio Petroni inszenierte Film erlebte seine Deutschland-Premiere am 30. August 1968. Alternativtitel ist Amigos – Die (B)Engel lassen grüßen.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/amigos/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Von Mann zu Mann]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/von-mann-zu-mann/]]></link>
+        <description><![CDATA[Von Mann zu Mann ist ein Italowestern von Giulio Petroni aus dem Jahr 1967. Die Filmmusik schrieb Ennio Morricone; ein Alternativtitel ist Die Rechnung wird mit Blei bezahlt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/von-mann-zu-mann/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

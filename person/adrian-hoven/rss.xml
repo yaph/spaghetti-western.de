@@ -3,32 +3,24 @@
 <channel><title>Person » Adrian Hoven</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Adrian Hoven</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Solo contro tutti]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/solo-contro-tutti/]]></link>
-        <description><![CDATA[Jesse James' Kid is a 1965 Spanish-Italian Spaghetti Western film directed by Antonio del Amo.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/solo-contro-tutti/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Seven Hours of Gunfire]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/seven-hours-of-gunfire/]]></link>
         <description><![CDATA[Seven Hours of Gunfire is a 1965 Spanish-Italian Spaghetti Western film directed by Joaquín Luis Romero Marchent.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/seven-hours-of-gunfire/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Der Sohn von Jesse James]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/der-sohn-von-jesse-james/]]></link>
-        <description><![CDATA[Der Sohn von Jesse James ist ein Italowestern aus dem Jahr 1964, der in spanisch-italienischer Koproduktion entstand. Die deutschsprachige Erstaufführung erfolgte am 6. Juni 1966.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/der-sohn-von-jesse-james/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <title><![CDATA[Solo contro tutti]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/solo-contro-tutti/]]></link>
+        <description><![CDATA[Jesse James' Kid is a 1965 Spanish-Italian Spaghetti Western film directed by Antonio del Amo.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/solo-contro-tutti/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/die-letzte-kugel-traf-den-besten/]]></link>
         <description><![CDATA[Die letzte Kugel traf den Besten ist ein früher Italowestern in der Regie von Joaquín Luis Romero Marchent. Das Drehbuch entstand nach der Geschichte „Buffalo Bill y su epoca“ von Ángel de Zavala. Die stark gekürzte deutschsprachige Fassung wurde am 9. Juli 1965 erstaufgeführt.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/die-letzte-kugel-traf-den-besten/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Der Sohn von Jesse James]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/der-sohn-von-jesse-james/]]></link>
+        <description><![CDATA[Der Sohn von Jesse James ist ein Italowestern aus dem Jahr 1964, der in spanisch-italienischer Koproduktion entstand. Die deutschsprachige Erstaufführung erfolgte am 6. Juni 1966.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/der-sohn-von-jesse-james/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

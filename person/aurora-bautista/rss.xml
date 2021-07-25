@@ -3,32 +3,24 @@
 <channel><title>Person » Aurora Bautista</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Aurora Bautista</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Degueyo]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/degueyo/]]></link>
-        <description><![CDATA[Degueyo is a 1966 Italian Spaghetti Western film directed by Giuseppe Vari.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/degueyo/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Twenty Thousand Dollars for Seven]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/twenty-thousand-dollars-for-seven/]]></link>
         <description><![CDATA[Twenty Thousand Dollars for Seven is a 1969 Italian Spaghetti Western film directed by Alberto Cardone and starring Brett Halsey.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/twenty-thousand-dollars-for-seven/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Für Dollars ins Jenseits]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/für-dollars-ins-jenseits/]]></link>
-        <description><![CDATA[Für Dollars ins Jenseits ist ein 1965 entstandener Italowestern, den Giuseppe Vari unter dem Pseudonym Joseph Warren inszenierte. Deutsche Erstaufführung war am 2. April 1967.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/für-dollars-ins-jenseits/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <title><![CDATA[Degueyo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/degueyo/]]></link>
+        <description><![CDATA[Degueyo is a 1966 Italian Spaghetti Western film directed by Giuseppe Vari.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/degueyo/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/20.000-dollari-sporchi-di-sangue/]]></link>
         <description><![CDATA[20.000 dollari sporchi di sangue ist der Titel eines im deutschsprachigen Raums nicht aufgeführten Italowestern von Alberto Cardone aus dem Jahr 1968.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/20.000-dollari-sporchi-di-sangue/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Für Dollars ins Jenseits]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/für-dollars-ins-jenseits/]]></link>
+        <description><![CDATA[Für Dollars ins Jenseits ist ein 1965 entstandener Italowestern, den Giuseppe Vari unter dem Pseudonym Joseph Warren inszenierte. Deutsche Erstaufführung war am 2. April 1967.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/für-dollars-ins-jenseits/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

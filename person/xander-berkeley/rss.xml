@@ -3,7 +3,7 @@
 <channel><title>Person » Xander Berkeley</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Xander Berkeley</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/straight-to-hell/]]></link>
         <description><![CDATA[Straight to Hell is a 1987 independent action-comedy film directed by Alex Cox and starring Sy Richardson, Joe Strummer, Dick Rude, and Courtney Love. The film also features cameos by Dennis Hopper, Grace Jones, Elvis Costello, and Jim Jarmusch. Band members of The Pogues, Amazulu, and The Circle Jerks are also featured in the film. The film borrows its title from The Clash's 1982 song of the same name.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/straight-to-hell/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Straight to Hell - Fahr zur Hölle]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/straight-to-hell---fahr-zur-hölle/]]></link>
+        <description><![CDATA[Film von Alex Cox (1987)]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/straight-to-hell---fahr-zur-hölle/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

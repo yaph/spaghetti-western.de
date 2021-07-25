@@ -3,24 +3,24 @@
 <channel><title>En » Person » Tina Aumont</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Tina Aumont</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Pride and Vengeance]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/pride-and-vengeance/]]></link>
-        <description><![CDATA[Man, Pride and Vengeance (Italian: L'uomo, l'orgoglio, la vendetta, German: Mit Django kam der Tod is a 1967 Spaghetti Western film directed by Luigi Bazzoni and starring Franco Nero. The film is a spaghetti western version of the novella Carmen by Prosper Mérimée.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/pride-and-vengeance/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Brothers Blue]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/brothers-blue/]]></link>
         <description><![CDATA[Blu Gang - E vissero per sempre felici e ammazzati is a 1973 Italian spaghetti western film directed by Luigi Bazzoni. For this film Tony Renis won the Nastro d'Argento for Best Score.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/brothers-blue/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Pride and Vengeance]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/pride-and-vengeance/]]></link>
+        <description><![CDATA[Man, Pride and Vengeance (Italian: L'uomo, l'orgoglio, la vendetta, German: Mit Django kam der Tod is a 1967 Spaghetti Western film directed by Luigi Bazzoni and starring Franco Nero. The film is a spaghetti western version of the novella Carmen by Prosper Mérimée.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/pride-and-vengeance/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

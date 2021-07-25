@@ -3,9 +3,25 @@
 <channel><title>En » Person » Gianni Solaro</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Gianni Solaro</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Arizona Colt]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/arizona-colt/]]></link>
+        <description><![CDATA[Arizona Colt, also known as The Man from Nowhere, is a Spaghetti Western directed by Michele Lupo and starring Giuliano Gemma, Fernando Sancho and Corinne Marchand.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/arizona-colt/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Paths of War]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/paths-of-war/]]></link>
+        <description><![CDATA[Paths of War is a 1970 Italian western-comedy film directed by Aldo Grimaldi.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/paths-of-war/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[One Thousand Dollars on the Black]]></title>
@@ -14,15 +30,7 @@
 
 Blood at Sundown is a Spaghetti Western film directed by Alberto Cardone. The picture marks the first appearance of the character Sartana, played by Gianni Garko. It is not, however considered an "official" Sartana film.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/one-thousand-dollars-on-the-black/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Arizona Colt]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/arizona-colt/]]></link>
-        <description><![CDATA[Arizona Colt, also known as The Man from Nowhere, is a Spaghetti Western directed by Michele Lupo and starring Giuliano Gemma, Fernando Sancho and Corinne Marchand.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/arizona-colt/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -30,15 +38,7 @@ Blood at Sundown is a Spaghetti Western film directed by Alberto Cardone. The pi
         <link><![CDATA[https://www.spaghetti-western.de/en/johnny-yuma/]]></link>
         <description><![CDATA[Johnny Yuma (1966) is a spaghetti western starring Mark Damon, Rosalba Neri, and Lawrence Dobkin. The title character earned his name by his exploits in a gunfight in Yuma, Arizona and has no relation to the 1961 The Rebel American television series.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/johnny-yuma/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Paths of War]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/paths-of-war/]]></link>
-        <description><![CDATA[Paths of War is a 1970 Italian western-comedy film directed by Aldo Grimaldi.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/paths-of-war/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

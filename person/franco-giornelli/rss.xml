@@ -3,24 +3,16 @@
 <channel><title>Person » Franco Giornelli</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Franco Giornelli</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[The Dirty Outlaws]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/the-dirty-outlaws/]]></link>
-        <description><![CDATA[The Dirty Outlaws, also known as Big Ripoff, King of the West and The Desperado, is a 1967 Italian spaghetti western starring Andrea Giordana.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/the-dirty-outlaws/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Execution]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/execution/]]></link>
         <description><![CDATA[Execution is a 1968 Italian Spaghetti Western film directed by Domenico Paolella.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/execution/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,15 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/a-man-called-sledge/]]></link>
         <description><![CDATA[A Man Called Sledge is a 1970 Italian spaghetti western film starring James Garner in an extremely offbeat role as a grimly evil thief, and featuring Dennis Weaver, Claude Akins and Wayde Preston. The film was written by Vic Morrow and Frank Kowalski, and directed by Morrow in Techniscope.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/a-man-called-sledge/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Escondido]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/escondido/]]></link>
-        <description><![CDATA[Escondido ist ein Italowestern aus dem Jahr 1967, den Franco Rossetti inszenierte. Der auch als Die im Staub verrecken aufgeführte Film gelangte am 23. Januar 1969 in deutsche Kinos.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/escondido/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <title><![CDATA[The Dirty Outlaws]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/the-dirty-outlaws/]]></link>
+        <description><![CDATA[The Dirty Outlaws, also known as Big Ripoff, King of the West and The Desperado, is a 1967 Italian spaghetti western starring Andrea Giordana.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/the-dirty-outlaws/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -44,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/django-die-bibel-ist-kein-kartenspiel/]]></link>
         <description><![CDATA[Django – Die Bibel ist kein Kartenspiel ist ein Italowestern aus dem Jahr 1968. Der von Domenico Paolella inszenierte Film erhielt wenig positive Kritiken und wurde in Deutschland am 24. April 1970 erstaufgeführt.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/django-die-bibel-ist-kein-kartenspiel/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -52,7 +44,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/der-einsame-aus-dem-westen/]]></link>
         <description><![CDATA[Der Einsame aus dem Westen ist ein 1970 entstandener Italowestern, den der amerikanische Schauspieler Vic Morrow mit James Garner in der Titelrolle inszenierte. Die deutschsprachige Erstaufführung fand am 29. November 1970 statt.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/der-einsame-aus-dem-westen/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Escondido]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/escondido/]]></link>
+        <description><![CDATA[Escondido ist ein Italowestern aus dem Jahr 1967, den Franco Rossetti inszenierte. Der auch als Die im Staub verrecken aufgeführte Film gelangte am 23. Januar 1969 in deutsche Kinos.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/escondido/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

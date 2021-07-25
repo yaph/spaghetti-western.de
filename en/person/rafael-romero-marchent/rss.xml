@@ -3,24 +3,24 @@
 <channel><title>En » Person » Rafael Romero Marchent</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Rafael Romero Marchent</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Dead Men Don't Count]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/dead-men-don't-count/]]></link>
-        <description><![CDATA[Dead Men Don't Count is a 1968 Spanish-Italian Spaghetti Western film written and directed by Rafael Romero Marchent.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/dead-men-don't-count/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Garringo]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/garringo/]]></link>
         <description><![CDATA[Garringo is a 1969 Spanish-Italian Spaghetti Western film written and directed by Rafael Romero Marchent.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/garringo/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Dead Men Don't Count]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/dead-men-don't-count/]]></link>
+        <description><![CDATA[Dead Men Don't Count is a 1968 Spanish-Italian Spaghetti Western film written and directed by Rafael Romero Marchent.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/dead-men-don't-count/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,7 +28,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/ringo-the-lone-rider/]]></link>
         <description><![CDATA[Ringo the Lone Rider is a 1968 Spanish-Italian Spaghetti western film directed by Rafael Romero Marchent.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/ringo-the-lone-rider/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/ocaso-de-un-pistolero/]]></link>
         <description><![CDATA[Hands of a Gunfighter is a 1965 Spanish-Italian western film directed by Rafael Romero Marchent.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/ocaso-de-un-pistolero/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

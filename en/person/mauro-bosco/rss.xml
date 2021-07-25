@@ -3,24 +3,24 @@
 <channel><title>En » Person » Mauro Bosco</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Mauro Bosco</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:47 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Halleluja for Django]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/halleluja-for-django/]]></link>
-        <description><![CDATA[La più grande rapina del West is a 1967 Italian Spaghetti Western film directed by Maurizio Lucidi.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/halleluja-for-django/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Roy Colt and Winchester Jack]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/roy-colt-and-winchester-jack/]]></link>
         <description><![CDATA[Roy Colt & Winchester Jack is a 1970 Spaghetti Western film directed by Mario Bava.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/roy-colt-and-winchester-jack/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Halleluja for Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/halleluja-for-django/]]></link>
+        <description><![CDATA[La più grande rapina del West is a 1967 Italian Spaghetti Western film directed by Maurizio Lucidi.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/halleluja-for-django/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

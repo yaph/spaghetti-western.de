@@ -3,24 +3,24 @@
 <channel><title>De » Person » Domenico Paolella</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » Domenico Paolella</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Django – Die Bibel ist kein Kartenspiel]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/django-die-bibel-ist-kein-kartenspiel/]]></link>
-        <description><![CDATA[Django – Die Bibel ist kein Kartenspiel ist ein Italowestern aus dem Jahr 1968. Der von Domenico Paolella inszenierte Film erhielt wenig positive Kritiken und wurde in Deutschland am 24. April 1970 erstaufgeführt.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/django-die-bibel-ist-kein-kartenspiel/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Die gnadenlosen Zwei]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/de/die-gnadenlosen-zwei/]]></link>
         <description><![CDATA[Die gnadenlosen Zwei ist ein 1967 unter der Regie von Domenico Paolella entstandenen Italowestern. Im deutschsprachigen Raum wurde der Film am 12. Juli 1968 erstaufgeführt.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/die-gnadenlosen-zwei/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Django – Die Bibel ist kein Kartenspiel]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/django-die-bibel-ist-kein-kartenspiel/]]></link>
+        <description><![CDATA[Django – Die Bibel ist kein Kartenspiel ist ein Italowestern aus dem Jahr 1968. Der von Domenico Paolella inszenierte Film erhielt wenig positive Kritiken und wurde in Deutschland am 24. April 1970 erstaufgeführt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/django-die-bibel-ist-kein-kartenspiel/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

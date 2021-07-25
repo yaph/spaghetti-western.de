@@ -3,32 +3,24 @@
 <channel><title>Person » Mike Monty</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Mike Monty</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Man of the East]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/man-of-the-east/]]></link>
-        <description><![CDATA[Man of the East is a 1972 Italian spaghetti western film directed by Enzo Barboni starring Terence Hill.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/man-of-the-east/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[A Fistful of Death]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/a-fistful-of-death/]]></link>
         <description><![CDATA[A Fistful of Death is a 1971 Italian Western film directed by Demofilo Fidani and starring Klaus Kinski.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/a-fistful-of-death/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Verflucht, verdammt und Halleluja]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/verflucht,-verdammt-und-halleluja/]]></link>
-        <description><![CDATA[Verflucht, verdammt und Halleluja, in der DDR unter dem Titel Ein Gentleman im Wilden Westen veröffentlicht, ist ein Spielfilm mit Terence Hill, gedreht Anfang der 1970er Jahre unter der Regie von E. B. Clucher alias Enzo Barboni.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/verflucht,-verdammt-und-halleluja/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <title><![CDATA[Man of the East]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/man-of-the-east/]]></link>
+        <description><![CDATA[Man of the East is a 1972 Italian spaghetti western film directed by Enzo Barboni starring Terence Hill.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/man-of-the-east/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/adios-companeros/]]></link>
         <description><![CDATA[Adios Companeros ist ein Italowestern von Demofilo Fidani. Alternativtitel sind "Ich will Deinen Kopf" und "Ich will ihn tot".]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/adios-companeros/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Verflucht, verdammt und Halleluja]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/verflucht,-verdammt-und-halleluja/]]></link>
+        <description><![CDATA[Verflucht, verdammt und Halleluja, in der DDR unter dem Titel Ein Gentleman im Wilden Westen veröffentlicht, ist ein Spielfilm mit Terence Hill, gedreht Anfang der 1970er Jahre unter der Regie von E. B. Clucher alias Enzo Barboni.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/verflucht,-verdammt-und-halleluja/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

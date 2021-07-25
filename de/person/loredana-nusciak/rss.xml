@@ -3,7 +3,7 @@
 <channel><title>De » Person » Loredana Nusciak</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » Loredana Nusciak</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,15 +12,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/django-die-geier-stehen-schlange/]]></link>
         <description><![CDATA[Django – Die Geier stehen Schlange ist ein Italowestern von Alberto Cardone aus dem Jahr 1966.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/django-die-geier-stehen-schlange/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Die Todesminen von Canyon City]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/die-todesminen-von-canyon-city/]]></link>
-        <description><![CDATA[Die Todesminen von Canyon City ist ein Italowestern in spanisch-italienischer Koproduktion. Der von Alfonso Balcázar inszenierte Film kam am 19. Oktober 1967 im deutschsprachigen Raum gekürzt zur Erstaufführung; ein Alternativtitel lautet Ringo schießt zuerst.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/die-todesminen-von-canyon-city/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,7 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/10.000-blutige-dollar/]]></link>
         <description><![CDATA[10.000 blutige Dollar ist ein Italowestern von Romolo Guerrieri aus dem Jahr 1967, der in Deutschland am 8. März 1968 erstaufgeführt wurde.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/10.000-blutige-dollar/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Die Todesminen von Canyon City]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/die-todesminen-von-canyon-city/]]></link>
+        <description><![CDATA[Die Todesminen von Canyon City ist ein Italowestern in spanisch-italienischer Koproduktion. Der von Alfonso Balcázar inszenierte Film kam am 19. Oktober 1967 im deutschsprachigen Raum gekürzt zur Erstaufführung; ein Alternativtitel lautet Ringo schießt zuerst.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/die-todesminen-von-canyon-city/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/django/]]></link>
         <description><![CDATA[Django ist ein Italowestern von Sergio Corbucci aus dem Jahr 1966 mit Franco Nero in der Hauptrolle. Der Film, der zahlreiche Regisseure und ihr Filmschaffen beeinflusst hat, enthält eine starke zeitgenössische gesellschaftskritische Komponente. Durch seine Brutalität und seinen schwarzen Humor setzte er sich deutlich vom amerikanischen Western ab.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/django/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

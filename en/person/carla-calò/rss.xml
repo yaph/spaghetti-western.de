@@ -3,9 +3,33 @@
 <channel><title>En » Person » Carla Calò</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Carla Calò</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Gli uomini dal passo pesante]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/gli-uomini-dal-passo-pesante/]]></link>
+        <description><![CDATA[The Tramplers is a 1965 Italian Spaghetti Western film directed by Albert Band and Mario Sequi based on the novel Guns of North Texas by Will Cook.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/gli-uomini-dal-passo-pesante/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Seven Dollars on the Red]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/seven-dollars-on-the-red/]]></link>
+        <description><![CDATA[ Sette dollari sul rosso  is a 1966 Italian Spaghetti Western film directed by Alberto Cardone. It stars Anthony Steffen as the main character.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/seven-dollars-on-the-red/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bullet in the Flesh]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/bullet-in-the-flesh/]]></link>
+        <description><![CDATA[Bullet in the Flesh or Il piombo e la carne is a 1964 Italian Spaghetti Western film directed by Marino Girolami.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/bullet-in-the-flesh/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[One Thousand Dollars on the Black]]></title>
@@ -14,31 +38,7 @@
 
 Blood at Sundown is a Spaghetti Western film directed by Alberto Cardone. The picture marks the first appearance of the character Sartana, played by Gianni Garko. It is not, however considered an "official" Sartana film.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/one-thousand-dollars-on-the-black/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Bullet in the Flesh]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/bullet-in-the-flesh/]]></link>
-        <description><![CDATA[Bullet in the Flesh or Il piombo e la carne is a 1964 Italian Spaghetti Western film directed by Marino Girolami.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/bullet-in-the-flesh/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Seven Dollars on the Red]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/seven-dollars-on-the-red/]]></link>
-        <description><![CDATA[ Sette dollari sul rosso  is a 1966 Italian Spaghetti Western film directed by Alberto Cardone. It stars Anthony Steffen as the main character.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/seven-dollars-on-the-red/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Gli uomini dal passo pesante]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/gli-uomini-dal-passo-pesante/]]></link>
-        <description><![CDATA[The Tramplers is a 1965 Italian Spaghetti Western film directed by Albert Band and Mario Sequi based on the novel Guns of North Texas by Will Cook.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/gli-uomini-dal-passo-pesante/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,16 @@
 <channel><title>Person » Lucia Modugno</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Lucia Modugno</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Navajo Joe]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/navajo-joe/]]></link>
-        <description><![CDATA[Navajo Joe is a 1966 Spaghetti Western film, directed by Sergio Corbucci, and stars Burt Reynolds as the titular Navajo Indian who opposes a group of bandits responsible for killing his tribe.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/navajo-joe/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[For a Few Dollars Less]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/for-a-few-dollars-less/]]></link>
         <description><![CDATA[For a Few Dollars Less is a 1966 Italian comedy film parody of For a Few Dollars More directed by Mario Mattoli and starring Lando Buzzanca. It was Mattoli's final film.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/for-a-few-dollars-less/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,15 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/my-name-is-pecos/]]></link>
         <description><![CDATA[Due once di piombo is a 1967 Italian Spaghetti Western film directed by Maurizio Lucidi.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/my-name-is-pecos/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Kopfgeld: Ein Dollar]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/kopfgeld:-ein-dollar/]]></link>
-        <description><![CDATA[Kopfgeld: Ein Dollar ist ein Italowestern von Sergio Corbucci aus dem Jahr 1966. Bei der spanisch-italienischen Koproduktion handelt sich um einen der seltenen Fälle, dass ein Indianer im Mittelpunkt der Handlung steht.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/kopfgeld:-ein-dollar/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <title><![CDATA[Navajo Joe]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/navajo-joe/]]></link>
+        <description><![CDATA[Navajo Joe is a 1966 Spaghetti Western film, directed by Sergio Corbucci, and stars Burt Reynolds as the titular Navajo Indian who opposes a group of bandits responsible for killing his tribe.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/navajo-joe/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -44,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/irren-ist-tödlich/]]></link>
         <description><![CDATA[Irren ist tödlich ist eine italienische Italowestern-Komödie aus dem Jahr 1966. Die direkte Parodie auf Für ein paar Dollar mehr – der Originaltitel bedeutet „Für ein paar Dollar weniger“ – wurde von Mario Mattòli inszeniert und im deutschen Sprachraum erst 1988 im DFF erstmals gezeigt.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/irren-ist-tödlich/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -52,7 +44,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/jonny-madoc/]]></link>
         <description><![CDATA[Jonny Madoc ist ein 1966 unter der Regie von Maurizio Lucidi gedrehter Italowestern. Der am 23. Juni 1967 erstmals in deutschsprachiger Version gezeigte Film, der auch als Jonny Madoc, der Scharfschütze vermarktet wurde, erhielt auf Videokassette den Titel American Bull.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/jonny-madoc/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Kopfgeld: Ein Dollar]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/kopfgeld:-ein-dollar/]]></link>
+        <description><![CDATA[Kopfgeld: Ein Dollar ist ein Italowestern von Sergio Corbucci aus dem Jahr 1966. Bei der spanisch-italienischen Koproduktion handelt sich um einen der seltenen Fälle, dass ein Indianer im Mittelpunkt der Handlung steht.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/kopfgeld:-ein-dollar/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

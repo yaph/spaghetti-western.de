@@ -3,24 +3,24 @@
 <channel><title>En » Person » Spiros Focás</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Spiros Focás</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Zorro in the Court of England]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/zorro-in-the-court-of-england/]]></link>
-        <description><![CDATA[Zorro in the Court of England is a 1969 Italian adventure film directed by Franco Montemurro.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/zorro-in-the-court-of-england/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Hate Thy Neighbor]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/hate-thy-neighbor/]]></link>
         <description><![CDATA[Hate Thy Neighbor is a 1968 Italian Spaghetti Western film written and directed by Ferdinando Baldi.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/hate-thy-neighbor/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Zorro in the Court of England]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/zorro-in-the-court-of-england/]]></link>
+        <description><![CDATA[Zorro in the Court of England is a 1969 Italian adventure film directed by Franco Montemurro.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/zorro-in-the-court-of-england/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

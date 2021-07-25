@@ -3,24 +3,24 @@
 <channel><title>De » Person » David Thomson</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » David Thomson</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Matalo]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></link>
-        <description><![CDATA[Matalo ist ein in internationaler Koproduktion entstandener Italowestern, der am 3. Dezember 1971 seine deutsche Erstaufführung erlebte. Trotz Starbesetzung bekam der Film schlechte Kritiken und enttäuschte finanziell. Von vielen Kritikern wird er zu den schlechtesten Filmen des Genres gezählt. Der internationale Titel ist Bad Man's River.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Amore, piombo e furore]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/de/amore,-piombo-e-furore/]]></link>
         <description><![CDATA[Amore, piombo e furore ist ein Italowestern aus dem Jahr 1978. Er war im deutschen Sprachraum nicht zu sehen.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/amore,-piombo-e-furore/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Matalo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></link>
+        <description><![CDATA[Matalo ist ein in internationaler Koproduktion entstandener Italowestern, der am 3. Dezember 1971 seine deutsche Erstaufführung erlebte. Trotz Starbesetzung bekam der Film schlechte Kritiken und enttäuschte finanziell. Von vielen Kritikern wird er zu den schlechtesten Filmen des Genres gezählt. Der internationale Titel ist Bad Man's River.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

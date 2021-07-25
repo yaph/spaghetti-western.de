@@ -3,24 +3,24 @@
 <channel><title>En » Person » Marc Mazza</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Marc Mazza</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[My Name is Nobody]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/my-name-is-nobody/]]></link>
-        <description><![CDATA[My Name Is Nobody is a 1973 comedy spaghetti western starring Terence Hill and Henry Fonda. The film was directed by Tonino Valerii.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/my-name-is-nobody/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Storm Rider]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/storm-rider/]]></link>
         <description><![CDATA[The Grand Duel, also known as Storm Rider and The Big Showdown, is a 1972 Spaghetti Western film directed by Giancarlo Santi, who had previously worked as Sergio Leone's assistant director on The Good, the Bad and the Ugly and Once Upon a Time in the West. The film stars Lee Van Cleef as a sheriff who seeks justice for a man accused of murder.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/storm-rider/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[My Name is Nobody]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/my-name-is-nobody/]]></link>
+        <description><![CDATA[My Name Is Nobody is a 1973 comedy spaghetti western starring Terence Hill and Henry Fonda. The film was directed by Tonino Valerii.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/my-name-is-nobody/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

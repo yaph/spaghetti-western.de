@@ -3,24 +3,16 @@
 <channel><title>En » Person » Jean Louis</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Jean Louis</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Sartana the Gravedigger]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/sartana-the-gravedigger/]]></link>
-        <description><![CDATA[I am Sartana, Your Angel of Death is a 1969 Italian Western film directed by Giuliano Carnimeo and starring Gianni Garko. The film is presented on some DVD reissues under its German title, Sartana - Töten war sein täglich Brot.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/sartana-the-gravedigger/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[May God Forgive You... But I Won't]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/may-god-forgive-you-but-i-won't/]]></link>
         <description><![CDATA[May God Forgive You... But I Won't  is a 1968 Italian Spaghetti Western film written and directed by Vincenzo Musolino.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/may-god-forgive-you-but-i-won't/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,7 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/django-the-bastard/]]></link>
         <description><![CDATA[Django the Bastard, also known as The Strangers Gundown, is a 1969 Italian Spaghetti Western film directed by Sergio Garrone. This Gothic-themed Spaghetti Western took advantage of the success of Sergio Corbucci's film Django, hence its title. A similar spaghetti western is the 1967 film Django Kill.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/django-the-bastard/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Sartana the Gravedigger]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/sartana-the-gravedigger/]]></link>
+        <description><![CDATA[I am Sartana, Your Angel of Death is a 1969 Italian Western film directed by Giuliano Carnimeo and starring Gianni Garko. The film is presented on some DVD reissues under its German title, Sartana - Töten war sein täglich Brot.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/sartana-the-gravedigger/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/trinity-is-still-my-name/]]></link>
         <description><![CDATA[Trinity Is Still My Name is a 1971 Italian Spaghetti Western comedy film directed by Enzo Barboni. Starring Terence Hill and Bud Spencer, it is a sequel to They Call Me Trinity (1970). It was shot extensively in Campo Imperatore, Abruzzo.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/trinity-is-still-my-name/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

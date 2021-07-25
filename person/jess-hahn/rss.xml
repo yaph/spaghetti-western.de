@@ -3,32 +3,24 @@
 <channel><title>Person » Jess Hahn</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Jess Hahn</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Bad Man's River]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/bad-man's-river/]]></link>
-        <description><![CDATA[Bad Man's River is a 1971 European comedy Spaghetti western directed by Eugenio Martín and starring Lee Van Cleef, James Mason, Gina Lollobrigida and Simón Andreu. Soundtrack was composed by Tony Duhig, Peter Jonfield, Glyn Havard and Waldo de los Ríos.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/bad-man's-river/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Storm Rider]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/storm-rider/]]></link>
         <description><![CDATA[The Grand Duel, also known as Storm Rider and The Big Showdown, is a 1972 Spaghetti Western film directed by Giancarlo Santi, who had previously worked as Sergio Leone's assistant director on The Good, the Bad and the Ugly and Once Upon a Time in the West. The film stars Lee Van Cleef as a sheriff who seeks justice for a man accused of murder.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/storm-rider/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
-        <title><![CDATA[Matalo]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></link>
-        <description><![CDATA[Matalo ist ein in internationaler Koproduktion entstandener Italowestern, der am 3. Dezember 1971 seine deutsche Erstaufführung erlebte. Trotz Starbesetzung bekam der Film schlechte Kritiken und enttäuschte finanziell. Von vielen Kritikern wird er zu den schlechtesten Filmen des Genres gezählt. Der internationale Titel ist Bad Man's River.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <title><![CDATA[Bad Man's River]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/bad-man's-river/]]></link>
+        <description><![CDATA[Bad Man's River is a 1971 European comedy Spaghetti western directed by Eugenio Martín and starring Lee Van Cleef, James Mason, Gina Lollobrigida and Simón Andreu. Soundtrack was composed by Tony Duhig, Peter Jonfield, Glyn Havard and Waldo de los Ríos.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/bad-man's-river/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/drei-vaterunser-für-vier-halunken/]]></link>
         <description><![CDATA[Drei Vaterunser für vier Halunken ist ein Italowestern aus dem Jahr 1972. Erstaufführung des Filmes von Giancarlo Santi war in Deutschland am 29. Dezember dieses Jahres. Er wurde auch als Rache unter roter Sonne vermarktet.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/drei-vaterunser-für-vier-halunken/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Matalo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></link>
+        <description><![CDATA[Matalo ist ein in internationaler Koproduktion entstandener Italowestern, der am 3. Dezember 1971 seine deutsche Erstaufführung erlebte. Trotz Starbesetzung bekam der Film schlechte Kritiken und enttäuschte finanziell. Von vielen Kritikern wird er zu den schlechtesten Filmen des Genres gezählt. Der internationale Titel ist Bad Man's River.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/matalo/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

@@ -3,24 +3,16 @@
 <channel><title>Genre » Treasure Hunt Film</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Genre » Treasure Hunt Film</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[The Stranger and the Gunfighter]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/the-stranger-and-the-gunfighter/]]></link>
-        <description><![CDATA[1974 film by Antonio Margheriti]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/the-stranger-and-the-gunfighter/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[The Good, the Bad and the Ugly]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/the-good,-the-bad-and-the-ugly/]]></link>
         <description><![CDATA[The Good, the Bad and the Ugly is a 1966 Italian epic Spaghetti Western film directed by Sergio Leone and starring Clint Eastwood, Lee Van Cleef, and Eli Wallach in their respective title roles. Its screenplay was written by Age & Scarpelli, Luciano Vincenzoni and Leone, based on a story by Vincenzoni and Leone. Director of photography Tonino Delli Colli was responsible for the film's sweeping widescreen cinematography, and Ennio Morricone composed the film's score including its main theme. It is an Italian-led production with co-producers in Spain, West Germany and the United States.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/the-good,-the-bad-and-the-ugly/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -28,7 +20,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/long-live-your-death/]]></link>
         <description><![CDATA[Long Live Your Death is a 1971 Italian/Spanish/German international co-production spaghetti western/ action comedy film directed by Duccio Tessari. The film is mostly a send up of "political" Spaghetti Westerns, like A Professional Gun and Compañeros.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/long-live-your-death/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[The Stranger and the Gunfighter]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/the-stranger-and-the-gunfighter/]]></link>
+        <description><![CDATA[1974 film by Antonio Margheriti]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/the-stranger-and-the-gunfighter/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/between-god/]]></link>
         <description><![CDATA[Between God, the Devil and a Winchester is a 1968 Italian Spaghetti Western film directed by Marino Girolami. The story is based on Treasure island by Robert Louis Stevenson..]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/between-god/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

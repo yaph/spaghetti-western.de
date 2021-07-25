@@ -3,24 +3,24 @@
 <channel><title>De » Person » Patrizia Valturri</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » Patrizia Valturri</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Töte, Django]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/töte,-django/]]></link>
-        <description><![CDATA[Töte, Django ist ein bei der Kritik umstrittener Italowestern, den Giulio Questi 1966 inszenierte. Der in Deutschland am 3. Mai 1967 erstaufgeführte Film erhielt auf DVD den Titel Django – Leck Staub von meinem Colt.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/töte,-django/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[John il bastardo]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/de/john-il-bastardo/]]></link>
         <description><![CDATA[John il bastardo ist ein Italowestern aus dem Jahr 1967, der unter der Debüt-Regie von Armando Crispino mit John Richardson in der Hauptrolle entstand. Eine Aufführung im deutschsprachigen Raum fand nicht statt.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/john-il-bastardo/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Töte, Django]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/töte,-django/]]></link>
+        <description><![CDATA[Töte, Django ist ein bei der Kritik umstrittener Italowestern, den Giulio Questi 1966 inszenierte. Der in Deutschland am 3. Mai 1967 erstaufgeführte Film erhielt auf DVD den Titel Django – Leck Staub von meinem Colt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/töte,-django/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

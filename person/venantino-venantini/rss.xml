@@ -3,32 +3,24 @@
 <channel><title>Person » Venantino Venantini</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Venantino Venantini</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Bandidos]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/bandidos/]]></link>
-        <description><![CDATA[Bandidos is a 1967 Italian spaghetti western film. It marked the directorial debut in a feature film of the then cinematographer Massimo Dallamano.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/bandidos/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Hate Is My God]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/hate-is-my-god/]]></link>
         <description><![CDATA[Hate Is My God is a 1969 Italian-German Spaghetti Western film directed by Claudio Gora.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/hate-is-my-god/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
         <title><![CDATA[Bandidos]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/bandidos/]]></link>
-        <description><![CDATA[Bandidos ist ein Italowestern aus dem Jahr 1967. Es war der erste Film und einzige Western des von der Kamera auf den Regiestuhl gewechselten Massimo Dallamano. Die deutschsprachige Uraufführung des im Vergleich zu anderen Vertretern des Genres ungewöhnlich positiv rezensierten Filmes erfolgte am 2. August 1968.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/bandidos/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <link><![CDATA[https://www.spaghetti-western.de/en/bandidos/]]></link>
+        <description><![CDATA[Bandidos is a 1967 Italian spaghetti western film. It marked the directorial debut in a feature film of the then cinematographer Massimo Dallamano.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/bandidos/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/il-nero-haß-war-sein-gebet/]]></link>
         <description><![CDATA[Il Nero – Haß war sein Gebet ist ein von Regisseur und Schauspieler Claudio Gora inszenierter Italowestern. Gedreht wurde in und um Rom an bekannten Filmkulissen.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/il-nero-haß-war-sein-gebet/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Bandidos]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/bandidos/]]></link>
+        <description><![CDATA[Bandidos ist ein Italowestern aus dem Jahr 1967. Es war der erste Film und einzige Western des von der Kamera auf den Regiestuhl gewechselten Massimo Dallamano. Die deutschsprachige Uraufführung des im Vergleich zu anderen Vertretern des Genres ungewöhnlich positiv rezensierten Filmes erfolgte am 2. August 1968.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/bandidos/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

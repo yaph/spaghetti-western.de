@@ -3,17 +3,9 @@
 <channel><title>En » Person » Annabella Incontrera</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Annabella Incontrera</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Poker with Pistols]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/poker-with-pistols/]]></link>
-        <description><![CDATA[Poker with Pistols is a 1967 Italian Spaghetti Western film directed by Giuseppe Vari.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/poker-with-pistols/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[A Bullet for Sandoval]]></title>
@@ -21,7 +13,7 @@
         <description><![CDATA[A Bullet for Sandoval is a 1969 spaghetti western film. It is a co-production between Italy and Spain. The film was generally well received by critics.
 For years, it was thought that famed Italian horror film director Lucio Fulci directed this western, but that was later disputed by the film's lead star George Hilton.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/a-bullet-for-sandoval/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -29,7 +21,15 @@ For years, it was thought that famed Italian horror film director Lucio Fulci di
         <link><![CDATA[https://www.spaghetti-western.de/en/return-of-sabata/]]></link>
         <description><![CDATA[Return of Sabata is a 1971 Spaghetti Western film directed by Gianfranco Parolini. The third film in The Sabata Trilogy, it features the return of Lee Van Cleef as the title character, which he had played in the first film, Sabata, but was replaced by Yul Brynner in the second film, Adiós, Sabata, due to a scheduling conflict. Return of Sabata was listed in the 1978 book The Fifty Worst Films of All Time.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/return-of-sabata/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Poker with Pistols]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/poker-with-pistols/]]></link>
+        <description><![CDATA[Poker with Pistols is a 1967 Italian Spaghetti Western film directed by Giuseppe Vari.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/poker-with-pistols/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

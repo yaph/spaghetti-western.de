@@ -3,24 +3,24 @@
 <channel><title>De » Person » Luigi Bazzoni</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » Luigi Bazzoni</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:49 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:08 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Mit Django kam der Tod]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/mit-django-kam-der-tod/]]></link>
-        <description><![CDATA[Mit Django kam der Tod ist ein Italo-Western aus dem Jahr 1967 mit Franco Nero in der Hauptrolle. Die Handlung orientiert sich am Carmen-Thema. Die Uraufführung in der Bundesrepublik Deutschland war am 11. Oktober 1968.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/mit-django-kam-der-tod/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Blu Gang]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/de/blu-gang/]]></link>
         <description><![CDATA[Blu Gang ist ein Italowestern aus der Spätphase des Genres, der durch eine ungewöhnliche Form gekennzeichnet ist. Der Film von Luigi Bazzoni erhielt keine Aufführung im deutschsprachigen Raum.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/blu-gang/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:44 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Mit Django kam der Tod]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/mit-django-kam-der-tod/]]></link>
+        <description><![CDATA[Mit Django kam der Tod ist ein Italo-Western aus dem Jahr 1967 mit Franco Nero in der Hauptrolle. Die Handlung orientiert sich am Carmen-Thema. Die Uraufführung in der Bundesrepublik Deutschland war am 11. Oktober 1968.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/mit-django-kam-der-tod/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>

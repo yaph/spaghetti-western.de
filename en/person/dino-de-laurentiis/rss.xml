@@ -3,16 +3,24 @@
 <channel><title>En » Person » Dino De Laurentiis</title>
     <link>https://www.spaghetti-western.de</link>
     <description>En » Person » Dino De Laurentiis</description>
-    <lastBuildDate>Fri, 30 Aug 2019 02:34:48 </lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 23:55:07 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[A Man Called Sledge]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/en/a-man-called-sledge/]]></link>
+        <description><![CDATA[A Man Called Sledge is a 1970 Italian spaghetti western film starring James Garner in an extremely offbeat role as a grimly evil thief, and featuring Dennis Weaver, Claude Akins and Wayde Preston. The film was written by Vic Morrow and Frank Kowalski, and directed by Morrow in Techniscope.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/en/a-man-called-sledge/]]></guid>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
+    </item>
     
     <item>
         <title><![CDATA[Chino]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/en/chino/]]></link>
         <description><![CDATA[Chino is a 1973 Italian Western film starring Charles Bronson, Jill Ireland, Marcel Bozzuffi, and Vincent Van Patten. The original English language title shown at the beginning of the film was The Valdez Horses, the same title that the novel on which the movie is based. It was an Italian-Spanish-French co-production filmed in Spain, with Italian and French funding.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/chino/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
     <item>
@@ -20,15 +28,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/navajo-joe/]]></link>
         <description><![CDATA[Navajo Joe is a 1966 Spaghetti Western film, directed by Sergio Corbucci, and stars Burt Reynolds as the titular Navajo Indian who opposes a group of bandits responsible for killing his tribe.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/navajo-joe/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[A Man Called Sledge]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/en/a-man-called-sledge/]]></link>
-        <description><![CDATA[A Man Called Sledge is a 1970 Italian spaghetti western film starring James Garner in an extremely offbeat role as a grimly evil thief, and featuring Dennis Weaver, Claude Akins and Wayde Preston. The film was written by Vic Morrow and Frank Kowalski, and directed by Morrow in Techniscope.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/en/a-man-called-sledge/]]></guid>
-        <pubDate>Fri, 30 Aug 2019 02:34:45 </pubDate>
+        <pubDate>Sun, 25 Jul 2021 23:55:05 </pubDate>
     </item>
     
 </channel></rss>
