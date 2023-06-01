@@ -3,7 +3,7 @@
 <channel><title>Person » Spiros Focás</title>
     <link>https://www.spaghetti-western.de</link>
     <description>Person » Spiros Focás</description>
-    <lastBuildDate>Thu, 01 Jun 2023 23:42:30 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 23:46:03 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     
@@ -12,7 +12,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/hate-thy-neighbor/]]></link>
         <description><![CDATA[Hate Thy Neighbor is a 1968 Italian Spaghetti Western film written and directed by Ferdinando Baldi.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/hate-thy-neighbor/]]></guid>
-        <pubDate>Thu, 01 Jun 2023 23:42:28 </pubDate>
+        <pubDate>Thu, 01 Jun 2023 23:46:00 </pubDate>
     </item>
     
     <item>
@@ -20,15 +20,7 @@
         <link><![CDATA[https://www.spaghetti-western.de/en/zorro-in-the-court-of-england/]]></link>
         <description><![CDATA[Zorro in the Court of England is a 1969 Italian adventure film directed by Franco Montemurro.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/en/zorro-in-the-court-of-england/]]></guid>
-        <pubDate>Thu, 01 Jun 2023 23:42:28 </pubDate>
-    </item>
-    
-    <item>
-        <title><![CDATA[Hasse deinen Nächsten]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/hasse-deinen-nächsten/]]></link>
-        <description><![CDATA[Hasse deinen Nächsten ist ein Italowestern aus dem Jahr 1968, den Ferdinando Baldi inszenierte. Im deutschen Sprachraum wurde der Film 2005 erstmals im Privatfernsehen gezeigt und später auf DVD veröffentlicht.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/hasse-deinen-nächsten/]]></guid>
-        <pubDate>Thu, 01 Jun 2023 23:42:27 </pubDate>
+        <pubDate>Thu, 01 Jun 2023 23:46:00 </pubDate>
     </item>
     
     <item>
@@ -36,7 +28,15 @@
         <link><![CDATA[https://www.spaghetti-western.de/de/zorro-alla-corte-d’inghilterra/]]></link>
         <description><![CDATA[Zorro alla corte d’Inghilterra ist ein im deutschen Sprachraum nicht gezeigter Abenteuerfilm aus dem Jahr 1969. Die italienische Produktion unter der Regie von Franco Montemurro nutzt die fiktionale Figur des maskierten Kämpfers für Gerechtigkeit im ungewohnten Umfeld der britischen Krone.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/zorro-alla-corte-d’inghilterra/]]></guid>
-        <pubDate>Thu, 01 Jun 2023 23:42:27 </pubDate>
+        <pubDate>Thu, 01 Jun 2023 23:46:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Hasse deinen Nächsten]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/hasse-deinen-nächsten/]]></link>
+        <description><![CDATA[Hasse deinen Nächsten ist ein Italowestern aus dem Jahr 1968, den Ferdinando Baldi inszenierte. Im deutschen Sprachraum wurde der Film 2005 erstmals im Privatfernsehen gezeigt und später auf DVD veröffentlicht.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/hasse-deinen-nächsten/]]></guid>
+        <pubDate>Thu, 01 Jun 2023 23:46:00 </pubDate>
     </item>
     
 </channel></rss>

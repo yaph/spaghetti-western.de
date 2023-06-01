@@ -3,24 +3,24 @@
 <channel><title>De » Person » Hans Nielsen</title>
     <link>https://www.spaghetti-western.de</link>
     <description>De » Person » Hans Nielsen</description>
-    <lastBuildDate>Thu, 01 Jun 2023 23:42:30 </lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 23:46:03 </lastBuildDate>
     <generator>Logya</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    
-    <item>
-        <title><![CDATA[Die letzten Zwei vom Rio Bravo]]></title>
-        <link><![CDATA[https://www.spaghetti-western.de/de/die-letzten-zwei-vom-rio-bravo/]]></link>
-        <description><![CDATA[Die letzten Zwei vom Rio Bravo ist ein früher Italowestern, den Mario Caiano 1964 inszenierte. Die deutsche Koproduktion wurde am 23. Oktober 1964 erstaufgeführt.]]></description>
-        <guid><![CDATA[https://www.spaghetti-western.de/de/die-letzten-zwei-vom-rio-bravo/]]></guid>
-        <pubDate>Thu, 01 Jun 2023 23:42:27 </pubDate>
-    </item>
     
     <item>
         <title><![CDATA[Die Gejagten der Sierra Nevada]]></title>
         <link><![CDATA[https://www.spaghetti-western.de/de/die-gejagten-der-sierra-nevada/]]></link>
         <description><![CDATA[Die Gejagten der Sierra Nevada ist ein Italowestern internationaler Produktion, der unter der Leitung von Alfonso Balcázar 1964 in Spanien unter Beteiligung auch deutscher und italienischer Schauspieler entstand. Am 11. Juni 1965 lief er auch im deutschen Sprachraum an.]]></description>
         <guid><![CDATA[https://www.spaghetti-western.de/de/die-gejagten-der-sierra-nevada/]]></guid>
-        <pubDate>Thu, 01 Jun 2023 23:42:27 </pubDate>
+        <pubDate>Thu, 01 Jun 2023 23:46:00 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Die letzten Zwei vom Rio Bravo]]></title>
+        <link><![CDATA[https://www.spaghetti-western.de/de/die-letzten-zwei-vom-rio-bravo/]]></link>
+        <description><![CDATA[Die letzten Zwei vom Rio Bravo ist ein früher Italowestern, den Mario Caiano 1964 inszenierte. Die deutsche Koproduktion wurde am 23. Oktober 1964 erstaufgeführt.]]></description>
+        <guid><![CDATA[https://www.spaghetti-western.de/de/die-letzten-zwei-vom-rio-bravo/]]></guid>
+        <pubDate>Thu, 01 Jun 2023 23:46:00 </pubDate>
     </item>
     
 </channel></rss>
